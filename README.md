@@ -1,6 +1,6 @@
-#React Stup with Vite
+# React Stup with Vite
 
-##Why Vite over CRA (Create React App) 🚀:
+## Why Vite over CRA (Create React App) 🚀:
 
 + Much faster build times using native ES modules
 + Built-in hot module replacement (HMR)
